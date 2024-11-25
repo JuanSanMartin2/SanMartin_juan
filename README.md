@@ -1,4 +1,4 @@
-nano 8.2                                                                                        README.md                                                                                         Modified
+                                                                                   README.md                                                                                         Modified
 Cloné el repositorio SanMartin_juan desde GitHub a mi directorio de trabajo.
 Creé tres directorios dentro del proyecto: src, docs y assets.
 Añadí reglas al archivo .gitignore para ignorar los archivos .xsd y el directorio top_secret/.
